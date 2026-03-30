@@ -7,17 +7,17 @@
 2. 将解压后目录放置在`chiplab/toolchains/loongarch32r-linux-gnusf-${TOOLCHAINS_DATE}`;
 3. 将`loongarch32r-linux-gnusf-${TOOLCHAINS_DATE}/bin`目录添加到path中。
 
-### 2. NEMU
-(https://gitee.com/wwt_panache/la32r-nemu/releases)
-
-1. 下载`la32r-nemu-interpreter-so`;
-2. 将下载后文件放置在`chiplab/toolchains/nemu`。
-
-### 3. picolibc库（Makefile默认）
+### 2. picolibc库（Makefile默认）
 (https://gitee.com/ffshff/la32r-picolibc/releases/tag/v1.1)
 
 1. 下载`picolibc.tar.gz`并解压；
 2. 将解压后目录放置在`chiplab/toolchains/picolib`。
+
+### 3. NEMU
+(https://gitee.com/wwt_panache/la32r-nemu/releases)
+
+1. 下载`la32r-nemu-interpreter-so`;
+2. 将下载后文件放置在`chiplab/toolchains/nemu`。
 
 ### 4. QEMU
 (https://gitee.com/loongson-edu/la32r-QEMU/releases/tag/v0.0.2)
