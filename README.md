@@ -19,7 +19,7 @@
 1. 下载`picolibc.tar.gz`并解压；
 2. 将解压后目录放置在`chiplab/toolchains/picolib`。
 
-### 4. qemu
+### 4. QEMU
 (https://gitee.com/loongson-edu/la32r-QEMU/releases/tag/v0.0.2)
 
 1. 下载`la32r-QEMU-x86_64-*-22.04.tar`并解压；
@@ -27,7 +27,7 @@
 
 ## 二、Verilator仿真
 
-### 1. 测试Hello_world
+### 1. 测试hello_world
 ```
 export CHIPLAB_HOME=/home/wyj/project/chiplab
 cd $CHIPLAB_HOME/sims/verilator/run_prog
