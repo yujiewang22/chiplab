@@ -1,4 +1,4 @@
-`chiplab`用于对LoongArch32r处理器核进行敏捷开发测试，目前已在`chiplab/IP/myCPU`目录内提前移植了`open-la500`的verilog内核源码。
+chiplab用于对LoongArch32r处理器核进行敏捷开发测试，该项目目前已在chiplab/IP/myCPU目录内提前移植了open-la500的verilog内核源码。
 
 
 ## 一、环境搭建
